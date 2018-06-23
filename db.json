@@ -1,8 +1,8 @@
 {
-  "ping":
-    [
+  "ping": [
+    {
       "id": 1,
       "message": "pong"
-    ]
-  
+    }
+  ]
 }
